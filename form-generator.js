@@ -35,7 +35,7 @@ const generateForm = formItems => {
     // approved form item types
     // --- current list of approved form items
     // --- all other types reject as error
-    const approvedTypes = [s]
+    const approvedTypes = ['label', 'select', 'text', 'submit']
     
     // form body 
     // --- updated by looping formItems
