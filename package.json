@@ -1,0 +1,24 @@
+{
+  "name": "node_form_generator",
+  "version": "1.2.0",
+  "description": "Generate forms for node applications",
+  "main": "./src/form-generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codemax999/node_form_generator.git"
+  },
+  "author": "Cody Maxwell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Codemax999/node_form_generator/issues"
+  },
+  "homepage": "https://github.com/Codemax999/node_form_generator#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.12.0"
+  }
+}
